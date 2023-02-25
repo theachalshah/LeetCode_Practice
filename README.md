@@ -1,4 +1,4 @@
-# LeetCode_Practice
+# LeetCode_Practice_SQL
 
 595. Big Countries - https://leetcode.com/problems/big-countries/submissions/?envType=study-plan&id=sql-i
 
