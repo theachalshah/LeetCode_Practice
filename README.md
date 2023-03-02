@@ -32,7 +32,12 @@
 
 1581.Customer Who Visited but Did Not Make Any Transactions - https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/submissions/907786987/?envType=study-plan&id=sql-i
 
-1148. Article Views I - https://leetcode.com/problems/article-views-i/submissions/907788976/?envType=study-plan&id=sql-i
+1148.Article Views I - https://leetcode.com/problems/article-views-i/submissions/907788976/?envType=study-plan&id=sql-i
+
+197.Rising Temperature - https://leetcode.com/problems/rising-temperature/submissions/907805537/?envType=study-plan&id=sql-i
+
+607.Sales Person - https://leetcode.com/problems/sales-person/submissions/907808044/?envType=study-plan&id=sql-i
+
 
 
 
