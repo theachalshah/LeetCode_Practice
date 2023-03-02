@@ -28,6 +28,16 @@
 
 176.Second Highest Salary - https://leetcode.com/problems/second-highest-salary/submissions/906439169/?envType=study-plan&id=sql-i
 
+175.Combine Two Tables - https://leetcode.com/problems/combine-two-tables/submissions/907783286/?envType=study-plan&id=sql-i
+
+1581.Customer Who Visited but Did Not Make Any Transactions - https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/submissions/907786987/?envType=study-plan&id=sql-i
+
+1148. Article Views I - https://leetcode.com/problems/article-views-i/submissions/907788976/?envType=study-plan&id=sql-i
+
+
+
+
+
 
 
 
