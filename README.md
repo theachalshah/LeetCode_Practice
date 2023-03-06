@@ -58,6 +58,17 @@
 
 1158.Market Analysis I - https://leetcode.com/problems/market-analysis-i/submissions/910245480/?envType=study-plan&id=sql-i
 
+182.Duplicate Emails - https://leetcode.com/problems/duplicate-emails/submissions/910376636/?envType=study-plan&id=sql-i
+
+1050.Actors and Directors Who Cooperated At Least Three Times - https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/submissions/910379240/?envType=study-plan&id=sql-i
+
+1587.Bank Account Summary II - https://leetcode.com/problems/bank-account-summary-ii/submissions/910382629/?envType=study-plan&id=sql-i
+
+1084.Sales Analysis III - https://leetcode.com/problems/sales-analysis-iii/submissions/910384909/?envType=study-plan&id=sql-i
+
+
+
+
 
 
 
