@@ -38,6 +38,27 @@
 
 607.Sales Person - https://leetcode.com/problems/sales-person/submissions/907808044/?envType=study-plan&id=sql-i
 
+1141.User Activity for the Past 30 Days  - https://leetcode.com/problems/user-activity-for-the-past-30-days-i/submissions/910207228/?envType=study-plan&id=sql-i
+
+1693.Daily Leads and Partners - https://leetcode.com/problems/daily-leads-and-partners/submissions/910211369/?envType=study-plan&id=sql-i
+
+1729.Find Followers Count - https://leetcode.com/problems/find-followers-count/submissions/910212975/?envType=study-plan&id=sql-i
+
+586.Customer Placing the Largest Number of Orders - https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/submissions/910217492/?envType=study-plan&id=sql-i
+
+511.Game Play Analysis I - https://leetcode.com/problems/game-play-analysis-i/submissions/910226180/?envType=study-plan&id=sql-i
+
+1890.The Latest Login in 2020 - https://leetcode.com/problems/the-latest-login-in-2020/submissions/910228263/?envType=study-plan&id=sql-i
+
+1741.Find Total Time Spent by Each Employee - https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/910231443/?envType=study-plan&id=sql-i
+
+1393.Capital Gain/Loss - https://leetcode.com/problems/capital-gainloss/submissions/910236063/?envType=study-plan&id=sql-i
+
+1407.Top Travellers - https://leetcode.com/problems/top-travellers/submissions/910241745/?envType=study-plan&id=sql-i
+
+1158.Market Analysis I - https://leetcode.com/problems/market-analysis-i/submissions/910245480/?envType=study-plan&id=sql-i
+
+
 
 
 
