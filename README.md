@@ -66,6 +66,14 @@
 
 1084.Sales Analysis III - https://leetcode.com/problems/sales-analysis-iii/submissions/910384909/?envType=study-plan&id=sql-i
 
+1699.Number of Calls Between Two Persons - https://leetcode.com/problems/number-of-calls-between-two-persons/submissions/915061749/?envType=study-plan&id=sql-ii
+
+1251.Average Selling Price - https://leetcode.com/problems/average-selling-price/submissions/915065364/?envType=study-plan&id=sql-ii
+
+
+
+
+
 
 
 
