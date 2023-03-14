@@ -70,6 +70,12 @@
 
 1251.Average Selling Price - https://leetcode.com/problems/average-selling-price/submissions/915065364/?envType=study-plan&id=sql-ii
 
+1571.Warehouse Manager - https://leetcode.com/problems/warehouse-manager/submissions/915156695/?envType=study-plan&id=sql-ii
+
+1445.Apples & Oranges - https://leetcode.com/problems/apples-oranges/submissions/915160415/?envType=study-plan&id=sql-ii
+
+
+
 
 
 
