@@ -74,6 +74,20 @@
 
 1445.Apples & Oranges - https://leetcode.com/problems/apples-oranges/submissions/915160415/?envType=study-plan&id=sql-ii
 
+1193.Monthly Transactions I - https://leetcode.com/problems/monthly-transactions-i/submissions/915657722/?envType=study-plan&id=sql-ii
+
+1633.Percentage of Users Attended a Contest - https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/915659534/?envType=study-plan&id=sql-ii
+
+1173.Immediate Food Delivery I - https://leetcode.com/problems/immediate-food-delivery-i/submissions/915661478/?envType=study-plan&id=sql-ii
+
+1211.Queries Quality and Percentage - https://leetcode.com/problems/queries-quality-and-percentage/submissions/915664673/?envType=study-plan&id=sql-ii
+
+
+
+
+
+
+
 
 
 
