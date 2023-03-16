@@ -82,6 +82,16 @@
 
 1211.Queries Quality and Percentage - https://leetcode.com/problems/queries-quality-and-percentage/submissions/915664673/?envType=study-plan&id=sql-ii
 
+1607.Sellers With No Sales - https://leetcode.com/problems/sellers-with-no-sales/submissions/916252525/?envType=study-plan&id=sql-ii
+
+619.Biggest Single Number - https://leetcode.com/problems/biggest-single-number/submissions/916255453/?envType=study-plan&id=sql-ii
+
+1112. Highest Grade For Each Student - https://leetcode.com/problems/highest-grade-for-each-student/submissions/916257767/?envType=study-plan&id=sql-ii
+
+
+
+
+
 
 
 
