@@ -90,6 +90,13 @@
 
 1440.Evaluate Boolean Expression - https://leetcode.com/problems/evaluate-boolean-expression/submissions/916837972/?envType=study-plan&id=sql-ii
 
+1264.Page Recommendations - https://leetcode.com/problems/page-recommendations/submissions/916842811/?envType=study-plan&id=sql-ii
+
+570.Managers with at Least 5 Direct Reports - https://leetcode.com/problems/managers-with-at-least-5-direct-reports/submissions/916845358/?envType=study-plan&id=sql-ii
+
+1303.Find the Team Size - https://leetcode.com/problems/find-the-team-size/submissions/916846793/?envType=study-plan&id=sql-ii
+
+
 
 
 
