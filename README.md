@@ -86,7 +86,9 @@
 
 619.Biggest Single Number - https://leetcode.com/problems/biggest-single-number/submissions/916255453/?envType=study-plan&id=sql-ii
 
-1112. Highest Grade For Each Student - https://leetcode.com/problems/highest-grade-for-each-student/submissions/916257767/?envType=study-plan&id=sql-ii
+1112.Highest Grade For Each Student - https://leetcode.com/problems/highest-grade-for-each-student/submissions/916257767/?envType=study-plan&id=sql-ii
+
+1440.Evaluate Boolean Expression - https://leetcode.com/problems/evaluate-boolean-expression/submissions/916837972/?envType=study-plan&id=sql-ii
 
 
 
