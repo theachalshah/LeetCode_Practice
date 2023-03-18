@@ -96,6 +96,13 @@
 
 1303.Find the Team Size - https://leetcode.com/problems/find-the-team-size/submissions/916846793/?envType=study-plan&id=sql-ii
 
+1280.Students and Examinations - https://leetcode.com/problems/students-and-examinations/submissions/917744479/?envType=study-plan&id=sql-ii
+
+1501.Countries You Can Safely Invest In - https://leetcode.com/problems/countries-you-can-safely-invest-in/submissions/917746040/?envType=study-plan&id=sql-ii
+
+
+
+
 
 
 
