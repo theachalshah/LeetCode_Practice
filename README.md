@@ -100,6 +100,12 @@
 
 1501.Countries You Can Safely Invest In - https://leetcode.com/problems/countries-you-can-safely-invest-in/submissions/917746040/?envType=study-plan&id=sql-ii
 
+184.Department Highest Salary - https://leetcode.com/problems/department-highest-salary/submissions/917784465/?envType=study-plan&id=sql-ii
+
+580.Count Student Number in Departments - https://leetcode.com/problems/count-student-number-in-departments/submissions/917787291/?envType=study-plan&id=sql-ii
+
+
+
 
 
 
