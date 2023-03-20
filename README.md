@@ -114,6 +114,18 @@
 
 603.Consecutive Available Seats - https://leetcode.com/problems/consecutive-available-seats/submissions/919114182/?envType=study-plan&id=sql-ii
 
+1731.The Number of Employees Which Report to Each Employee - https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/submissions/919121044/?envType=study-plan&id=sql-ii
+
+1747.Leetflex Banned Accounts - https://leetcode.com/problems/leetflex-banned-accounts/submissions/919125335/?envType=study-plan&id=sql-ii
+
+181.Employees Earning More Than Their Managers - https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/919126566/?envType=study-plan&id=sql-ii
+
+
+
+
+
+
+
 
 
 
