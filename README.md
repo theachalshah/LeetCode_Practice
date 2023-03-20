@@ -104,6 +104,17 @@
 
 580.Count Student Number in Departments - https://leetcode.com/problems/count-student-number-in-departments/submissions/917787291/?envType=study-plan&id=sql-ii
 
+1294.Weather Type in Each Country - https://leetcode.com/problems/weather-type-in-each-country/submissions/918397880/?envType=study-plan&id=sql-ii
+
+626.Exchange Seats - https://leetcode.com/problems/exchange-seats/submissions/918399585/?envType=study-plan&id=sql-ii
+
+1783.Grand Slam Titles - https://leetcode.com/problems/grand-slam-titles/submissions/918400812/?envType=study-plan&id=sql-ii
+
+1164.Product Price at a Given Date - https://leetcode.com/problems/product-price-at-a-given-date/submissions/918403455/?envType=study-plan&id=sql-ii
+
+
+
+
 
 
 
