@@ -112,6 +112,11 @@
 
 1164.Product Price at a Given Date - https://leetcode.com/problems/product-price-at-a-given-date/submissions/918403455/?envType=study-plan&id=sql-ii
 
+603.Consecutive Available Seats - https://leetcode.com/problems/consecutive-available-seats/submissions/919114182/?envType=study-plan&id=sql-ii
+
+
+
+
 
 
 
