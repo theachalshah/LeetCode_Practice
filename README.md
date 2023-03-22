@@ -120,6 +120,14 @@
 
 181.Employees Earning More Than Their Managers - https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/919126566/?envType=study-plan&id=sql-ii
 
+ 1459.Rectangles Area - https://leetcode.com/problems/rectangles-area/submissions/920327097/?envType=study-plan&id=sql-ii
+ 
+ 180.Consecutive Numbers - https://leetcode.com/problems/consecutive-numbers/submissions/920329645/?envType=study-plan&id=sql-ii
+ 
+ 1988.Find Cutoff Score for Each School - https://leetcode.com/problems/find-cutoff-score-for-each-school/submissions/920333175/?envType=study-plan&id=sql-ii
+ 
+ 1549. The Most Recent Orders for Each Product - https://leetcode.com/problems/the-most-recent-orders-for-each-product/submissions/920336036/?envType=study-plan&id=sql-ii
+
 
 
 
