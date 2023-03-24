@@ -128,6 +128,23 @@
  
  1549. The Most Recent Orders for Each Product - https://leetcode.com/problems/the-most-recent-orders-for-each-product/submissions/920336036/?envType=study-plan&id=sql-ii
 
+1321.Restaurant Growth - https://leetcode.com/problems/restaurant-growth/submissions/921076290/?envType=study-plan&id=sql-ii
+
+1045.Customers Who Bought All Products - https://leetcode.com/problems/customers-who-bought-all-products/submissions/921079466/?envType=study-plan&id=sql-ii
+
+1341.Movie Rating - https://leetcode.com/problems/movie-rating/submissions/921081424/?envType=study-plan&id=sql-ii
+
+1867.Orders With Maximum Quantity Above Average - https://leetcode.com/problems/orders-with-maximum-quantity-above-average/submissions/921082574/?envType=study-plan&id=sql-ii
+
+550.Game Play Analysis IV - https://leetcode.com/problems/game-play-analysis-iv/submissions/921083494/?envType=study-plan&id=sql-ii
+
+262.Trips and Users - https://leetcode.com/problems/trips-and-users/submissions/921084273/?envType=study-plan&id=sql-ii
+
+
+
+
+
+
 
 
 
